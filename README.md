@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Evelyn (@enkanga)
 - 👀 I’m interested in data science/analytics
 - 🌱 I’m currently working on strengthening my python skills!
-- 📫 How to reach me: <a href="mailto:enkanga@gmail.com">Email</a>, <a href="https://www.linkedin.com/in/enkanga/" target="_blank">LinkedIn</a>
+- 📫 Email: <a href="mailto:enkanga@gmail.com">enkanga@gmail.com</a>, <a href="https://www.linkedin.com/in/enkanga/" target="_blank">LinkedIn</a>
   
 
 <!---
